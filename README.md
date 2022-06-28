@@ -1,4 +1,4 @@
-# Tutorial
+# Mogu-travel
 
 <p>Application for finding excursions in France</p>
 <img width="700" alt="Снимок экрана 2022-06-23 в 15 04 52" src="https://user-images.githubusercontent.com/91186108/175294552-94954cb7-49d0-4650-bafc-1662c2ae4703.png">
